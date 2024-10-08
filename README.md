@@ -40,6 +40,11 @@ printf("Decrypted text: %s\n", url);
 
 return 0;
 }
+
+```
+
+return 0;
+}
 ```
 
 ## OUTPUT:
