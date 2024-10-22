@@ -1,4 +1,4 @@
-# EX-7- Implement DES Encryption and Decryption
+# EX-07- Implement DES Encryption and Decryption
 
 ## Aim:
 
@@ -55,7 +55,7 @@ return 0;
 Hence,to use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption is done successfully.
 
 
-# EX-8-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
+# EX-08-ADVANCED-ENCRYPTION-STANDARD-DES-ALGORITHM
 
 ## Aim:
   To use Advanced Encryption Standard (AES) Algorithm for a practical application like URL Encryption.
